@@ -1,0 +1,4 @@
+1,Basketball,First,Amritamayi House
+2,Football,Fourth,Jyothirmayi House
+3,Cricket,Second,Anandhamayi House
+4,Tennish,Third,Chimayi House

@@ -1,0 +1,9 @@
+Volleyball, 10, 8
+Tennis, 5, 3
+Swimming, 16, 15
+Basketball, 2, 19
+Football, 18, 6
+Badminton, 7, 1
+Cricket, 14, 2
+Golf, 9, 14
+Athletics, 50, 0
